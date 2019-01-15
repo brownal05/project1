@@ -1,0 +1,73 @@
+﻿"","","","","All Institutions - National","","","All Institutions - National","","","All Institutions - National","","","All Institutions - National",
+"","","","","9/30/2018","","","6/30/2018","","","3/31/2018","","","12/31/2017",
+"","","","","$ in 000's","","","$ in 000's","","","$ in 000's","","","$ in 000's",
+"","","","","Total (Sum) and Average (W)","","","Total (Sum) and Average (W)","","","Total (Sum) and Average (W)","","","Total (Sum) and Average (W)",
+"1","Number of institutions reporting","","instcnt","5477","","instcnt","5542","","instcnt","5607","","instcnt","5670",
+"     Past Due and Nonaccrual Assets",
+"2","Assets past due 30-89 days","","p3asset","63,299,064","","p3asset","59,448,864","","p3asset","63,357,756","","p3asset","67,700,799",
+"3","Loans secured by real estate, total past due 30  -  89 days","","p3re","29,710,438","","p3re","28,580,713","","p3re","31,577,198","","p3re","34,012,628",
+"4","To non-U.S. addressees, past due 30  -  89 days","","p3renus","279,222","","p3renus","235,425","","p3renus","261,138","","p3renus","210,366",
+"5","Real estate loans in domestic offices, past due 30  -  89 days","","idp3redm","29,489,923","","idp3redm","28,423,092","","idp3redm","31,389,165","","idp3redm","33,834,515",
+"6","Construction and land development, past due 30  -  89 days","","p3recons","1,294,539","","p3recons","1,113,266","","p3recons","1,303,321","","p3recons","1,171,240",
+"7","1-4 family residential construction loans past due 30 through 89 days","","p3recnfm","380,814","","p3recnfm","284,540","","p3recnfm","306,842","","p3recnfm","342,769",
+"8","Other construction all land development and other land loans past due 30-89 days","","p3recnot","913,725","","p3recnot","828,726","","p3recnot","996,479","","p3recnot","828,471",
+"9","Secured by farmland, past due 30  -  89 days","","p3reag","457,467","","p3reag","542,279","","p3reag","708,408","","p3reag","448,766",
+"10","Secured by 1-4 family residential properties, past due 30  -  89 days","","p3reres","23,914,536","","p3reres","23,029,877","","p3reres","24,460,312","","p3reres","28,180,147",
+"11","Secured by multifamily residential properties, past due 30  -  89 days","","p3remult","371,944","","p3remult","396,364","","p3remult","463,156","","p3remult","488,165",
+"12","Secured by nonfarm nonresidential properties, past due 30  -  89 days","","p3renres","3,451,437","","p3renres","3,341,306","","p3renres","4,453,968","","p3renres","3,546,197",
+"13","Secured by owner-occupied nonfarm nonresidential properties, past due 30-89 days","","p3renrow","1,810,471","","p3renrow","1,553,319","","p3renrow","2,270,603","","p3renrow","1,846,601",
+"14","Secured by other nonfarm nonresidential properties, past due 30-89 days","","p3renrot","1,640,966","","p3renrot","1,787,987","","p3renrot","2,183,365","","p3renrot","1,699,596",
+"15","Commercial and industrial loans, past due 30 - 89 days","","p3ci","5,787,777","","p3ci","6,376,188","","p3ci","5,969,742","","p3ci","5,582,674",
+"16","Credit cards and related plans, past due 30 - 89 days","","p3crcd","11,943,666","","p3crcd","10,319,233","","p3crcd","10,464,490","","p3crcd","11,531,157",
+"17","30-89 Days P/D Auto Loans","","p3auto","9,338,105","","p3auto","8,361,233","","p3auto","7,770,905","","p3auto","9,768,308",
+"18","30-89 Days P/D-Other Consumer","","p3conoth","3,350,003","","p3conoth","3,148,729","","p3conoth","3,345,155","","p3conoth","3,542,394",
+"19","Loans secured by real estate, total in nonaccrual status","","nare","39,580,676","","nare","41,248,856","","nare","42,886,090","","nare","43,076,995",
+"20","Laons to non-U.S. addressees, in nonaccrual status","","narenus","439,098","","narenus","446,147","","narenus","382,723","","narenus","378,129",
+"21","Real estate loans in domestic offices in nonaccrual status","","idnaredm","39,259,644","","idnaredm","40,928,782","","idnaredm","42,558,530","","idnaredm","42,749,165",
+"22","Construction and land development in nonaccrual status","","narecons","1,337,243","","narecons","1,449,732","","narecons","1,447,598","","narecons","1,505,939",
+"23","Nonaccrual 1-4 family residential construction loans","","narecnfm","278,368","","narecnfm","265,621","","narecnfm","295,448","","narecnfm","297,710",
+"24","Nonaccrual other construction, all land development and other land loans","","narecnot","1,058,875","","narecnot","1,184,111","","narecnot","1,152,150","","narecnot","1,208,229",
+"25","Loans secured by farmland in nonaccrual status","","nareag","1,524,401","","nareag","1,478,184","","nareag","1,401,526","","nareag","1,334,012",
+"26","Secured by 1-4 family residential properties in nonaccrual status","","nareres","28,435,731","","nareres","29,800,639","","nareres","31,363,618","","nareres","31,732,336",
+"27","Secured by multifamily residential properties in nonaccrual status","","naremult","509,872","","naremult","514,705","","naremult","540,523","","naremult","513,911",
+"28","Loans secured by nonfarm nonresidential properties in nonaccrual status","","narenres","7,452,397","","narenres","7,685,522","","narenres","7,805,265","","narenres","7,662,967",
+"29","Loans secured by owner-occupied nonfarm nonresidential properties, in nonaccrual","","narenrow","4,254,283","","narenrow","4,494,762","","narenrow","4,673,383","","narenrow","4,478,210",
+"30","Loans secured by other nonfarm nonresidential properties, in nonaccrual status","","narenrot","3,198,114","","narenrot","3,190,760","","narenrot","3,131,882","","narenrot","3,184,757",
+"31","Real estate loans in foreign offices in nonaccrual status","","narefor","321,032","","narefor","320,074","","narefor","327,560","","narefor","327,830",
+"32","Loans to depository institutions in nonaccrual status","","nadep","5,142","","nadep","5,151","","nadep","528","","nadep","2,151",
+"33","Loans to foreign banks in nonaccrual status","","nadepnus","0","","nadepnus","0","","nadepnus","0","","nadepnus","0",
+"34","Loans for agriculture and other loans to farmers in nonaccrual status","","naag","174,745","","naag","264,381","","naag","230,771","","naag","217,834",
+"35","Commercial and industrial loans in nonaccrual status","","naci","13,953,961","","naci","15,044,376","","naci","16,328,800","","naci","16,923,880",
+"36","Loans to non-U.S. addressees in nonaccrual status","","nacinus","1,606,652","","nacinus","2,086,163","","nacinus","2,400,062","","nacinus","3,145,784",
+"37","Loans to individuals in nonaccrual status","","nacon","3,400,743","","nacon","3,139,652","","nacon","3,146,639","","nacon","3,231,135",
+"38","Credit cards and related plans in nonaccrual status","","nacrcd","1,143,257","","nacrcd","1,073,845","","nacrcd","1,110,705","","nacrcd","1,089,448",
+"39","Nonaccrual Auto Loans","","naauto","1,701,630","","naauto","1,509,242","","naauto","1,461,060","","naauto","1,576,340",
+"40","Nonaccrual-Other Consumer","","naconoth","555,856","","naconoth","556,565","","naconoth","574,874","","naconoth","565,347",
+"41","Loans to foreign governments and official institutions in nonaccrual status","","nafg","14,000","","nafg","11,000","","nafg","12,000","","nafg","11,000",
+"42","Other loans in nonaccrual status","","naothln","2,046,398","","naothln","1,817,601","","naothln","1,660,631","","naothln","1,431,559",
+"43","Lease financing receivables in nonaccrual status","","nals","470,287","","nals","554,163","","nals","532,688","","nals","474,041",
+"44","Debt securities and other assets in nonaccrual status","","nascdebt","333,609","","nascdebt","354,420","","nascdebt","449,803","","nascdebt","455,049",
+"45","Loans to finance agriculture and other loans to farmers in nonaccrual status","","naagsm","559,929","","naagsm","546,752","","naagsm","524,456","","naagsm","478,477",
+"46","Nonaccrual Loans held for sale in nonaccrual status","","nalnsale","709,046","","nalnsale","1,045,465","","nalnsale","938,796","","nalnsale","1,162,003",
+"47","Guaranteed portion of nonaccrual loans and leases, excluding GNMA loans","","nagtypar","4,556,247","","nagtypar","4,583,348","","nagtypar","4,722,699","","nagtypar","4,650,583",
+"48","Total Nonaccrual Loans – FDIC Loss Sharing","","naltot","69,857","","naltot","74,002","","naltot","73,006","","naltot","68,096",
+"* Note: Prior to March 2001, information on Assets past due 30-89 days for individual institutions was confidential and therefore not available."
+
+"Key for Column Selections:"
+
+"Column 1 Selections"
+"Standard Peer Group: All Institutions - National"
+"as of 9/30/2018"
+
+"Column 2 Selections"
+"Standard Peer Group: All Institutions - National"
+"as of 6/30/2018"
+
+"Column 3 Selections"
+"Standard Peer Group: All Institutions - National"
+"as of 3/31/2018"
+
+"Column 4 Selections"
+"Standard Peer Group: All Institutions - National"
+"as of 12/31/2017"
+
