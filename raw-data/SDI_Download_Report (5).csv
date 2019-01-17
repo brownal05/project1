@@ -1,0 +1,123 @@
+FDIC - Statistics on Depository Institutions Report,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,All Institutions - National,,,All Institutions - National,,,All Institutions - National,,,All Institutions - National
+,,,,12/31/2011,,,9/30/2011,,,6/30/2011,,,3/31/2011
+,,,,$ in 000's,,,$ in 000's,,,$ in 000's,,,$ in 000's
+,,,,Total (Sum),,,Total (Sum),,,Total (Sum),,,Total (Sum)
+1,Number of institutions reporting,,instcnt,7357,,instcnt,7437,,instcnt,7513,,instcnt,7574
+Past Due and Nonaccrual Assets,,,, ,,, ,,, ,,, 
+2,Assets past due 30 - 89 days *,,p3asset,"101,188,068",,p3asset,"100,225,655",,p3asset,"102,704,793",,p3asset,"110,530,850"
+3,"Loans secured by real estate, total",,p3re,"69,794,755",,p3re,"70,656,788",,p3re,"71,891,102",,p3re,"78,209,260"
+4,To non-U.S. addressees,,p3renus,"490,529",,p3renus,"443,202",,p3renus,"488,310",,p3renus,"636,118"
+5,Real estate loans in domestic offices,,idp3redm,"69,222,901",,idp3redm,"70,112,252",,idp3redm,"71,303,967",,idp3redm,"77,526,795"
+6,Construction and land development,,p3recons,"3,295,518",,p3recons,"4,340,557",,p3recons,"4,510,347",,p3recons,"6,580,710"
+7,"1-4 family residential construction	",,p3recnfm,"512,895",,p3recnfm,"558,180",,p3recnfm,"676,762",,p3recnfm,"1,062,812"
+8,"Other construction, all land development and other land	",,p3recnot,"2,552,061",,p3recnot,"3,556,883",,p3recnot,"3,458,241",,p3recnot,"5,108,379"
+9,Secured by farmland,,p3reag,"408,473",,p3reag,"404,942",,p3reag,"532,845",,p3reag,"691,701"
+10,Secured by 1-4 family residential properties,,p3reres,"54,790,426",,p3reres,"54,204,785",,p3reres,"55,139,886",,p3reres,"55,996,397"
+11,Secured by multifamily residential properties,,p3remult,"1,509,586",,p3remult,"1,367,145",,p3remult,"1,572,736",,p3remult,"2,119,091"
+12,Secured by nonfarm nonresidential properties,,p3renres,"9,218,898",,p3renres,"9,794,823",,p3renres,"9,548,153",,p3renres,"12,138,896"
+13,Owner-occupied non-farm non-residential,,p3renrow,"4,171,205",,p3renrow,"4,143,639",,p3renrow,"4,073,213",,p3renrow,"4,727,753"
+14,Other non-farm non-residential,,p3renrot,"4,496,178",,p3renrot,"4,950,362",,p3renrot,"4,870,507",,p3renrot,"6,596,171"
+15,Real estate loans in foreign offices,,p3refor,"571,854",,p3refor,"544,536",,p3refor,"587,135",,p3refor,"682,465"
+16,Loans to depository institutions,,p3dep,"45,932",,p3dep,"21,178",,p3dep,"84,187",,p3dep,"109,171"
+17,To foreign banks,,p3depnus,"45,747",,p3depnus,"20,028",,p3depnus,"75,028",,p3depnus,"107,000"
+18,Loans to finance agricultural production and other loans to farmers,,p3ag,"125,538",,p3ag,"104,277",,p3ag,"153,628",,p3ag,"178,632"
+19,Commercial and industrial loans,,p3ci,"5,973,702",,p3ci,"6,128,904",,p3ci,"6,515,750",,p3ci,"7,915,610"
+20,To non-U.S. addressees,,p3cinus,"531,696",,p3cinus,"323,079",,p3cinus,"321,117",,p3cinus,"264,276"
+21,Loans to individuals,,p3con,"22,653,316",,p3con,"21,940,071",,p3con,"21,589,775",,p3con,"21,845,317"
+22,Credit cards,,p3crcd,"10,944,360",,p3crcd,"11,381,313",,p3crcd,"11,203,252",,p3crcd,"11,710,919"
+23,Automobile loans,,p3auto,"5,017,792",,p3auto,"4,461,017",,p3auto,"4,349,530",,p3auto,"3,882,182"
+24,Other consumer loans,,p3conoth,"6,691,164",,p3conoth,"6,097,741",,p3conoth,"6,036,993",,p3conoth,"6,252,216"
+25,Loans to foreign governments and official institutions,,p3fg,0,,p3fg,0,,p3fg,0,,p3fg,0
+26,Other loans,,p3othln,"1,754,920",,p3othln,"856,669",,p3othln,"1,980,870",,p3othln,"1,602,254"
+27,Lease financing receivables,,p3ls,"554,287",,p3ls,"436,190",,p3ls,"411,081",,p3ls,"603,632"
+28,Debt securities and other assets,,p3scdebt,"285,618",,p3scdebt,"81,578",,p3scdebt,"78,400",,p3scdebt,"66,974"
+ ,Memoranda (included above): ,,,,,,,,,,,,
+29,Loans to finance agricultural prod and other loans to farmers (small),,p3agsm,"99,564",,p3agsm,"98,611",,p3agsm,"133,500",,p3agsm,"243,556"
+30,Loans held for sale,,p3lnsale,"1,813,142",,p3lnsale,"1,603,266",,p3lnsale,"901,696",,p3lnsale,"784,082"
+31,"Loans and leases, wholly or partially guaranteed by the U.S. Government",,p3gtypar,"14,776,250",,p3gtypar,"13,952,419",,p3gtypar,"15,116,878",,p3gtypar,"12,633,994"
+32,Loans and leases covered by FDIC loss-sharing agreements,,p3ltot,"3,285,970",,p3ltot,"3,404,261",,p3ltot,"3,821,548",,p3ltot,"4,340,262"
+33,Assets past due 90 or more days,,p9asset,"134,322,424",,p9asset,"127,604,499",,p9asset,"122,661,987",,p9asset,"126,602,611"
+34,"Loans secured by real estate, total",,p9re,"116,182,328",,p9re,"109,883,804",,p9re,"104,831,151",,p9re,"106,329,469"
+35,To non-U.S. addressees,,p9renus,"203,361",,p9renus,"264,771",,p9renus,"274,811",,p9renus,"240,291"
+36,Real estate loans in domestic offices,,idp9redm,"116,017,137",,idp9redm,"109,663,160",,idp9redm,"104,588,285",,idp9redm,"106,118,977"
+37,Construction and land development,,p9recons,"5,362,263",,p9recons,"6,088,372",,p9recons,"5,914,781",,p9recons,"6,635,653"
+38,"1-4 family residential construction	",,p9recnfm,"898,586",,p9recnfm,"1,039,531",,p9recnfm,"1,064,267",,p9recnfm,"1,313,340"
+39,"Other construction, all land development and other land	",,p9recnot,"4,385,236",,p9recnot,"4,880,752",,p9recnot,"4,695,261",,p9recnot,"5,141,328"
+40,Secured by farmland,,p9reag,"235,577",,p9reag,"290,929",,p9reag,"241,708",,p9reag,"201,247"
+41,Secured by 1-4 family residential properties,,p9reres,"104,174,983",,p9reres,"96,988,940",,p9reres,"92,550,942",,p9reres,"93,752,631"
+42,Secured by multifamily residential properties,,p9remult,"807,954",,p9remult,"883,938",,p9remult,"822,907",,p9remult,"867,805"
+43,Secured by nonfarm nonresidential properties,,p9renres,"5,436,360",,p9renres,"5,410,981",,p9renres,"5,057,947",,p9renres,"4,661,641"
+44,Owner-occupied non-farm non-residential,,p9renrow,"2,030,405",,p9renrow,"2,036,797",,p9renrow,"1,860,381",,p9renrow,"1,741,810"
+45,Other non-farm non-residential,,p9renrot,"3,279,750",,p9renrot,"3,228,066",,p9renrot,"3,039,670",,p9renrot,"2,789,782"
+46,Real estate loans in foreign offices,,p9refor,"165,191",,p9refor,"220,644",,p9refor,"242,866",,p9refor,"210,492"
+47,Loans to depository institutions,,p9dep,"11,498",,p9dep,282,,p9dep,367,,p9dep,318
+48,To foreign banks,,p9depnus,27,,p9depnus,0,,p9depnus,22,,p9depnus,14
+49,Loans to finance agricultural production and other loans to farmers,,p9ag,"16,415",,p9ag,"46,159",,p9ag,"39,581",,p9ag,"31,720"
+50,Commercial and industrial loans,,p9ci,"1,980,557",,p9ci,"2,128,997",,p9ci,"2,151,871",,p9ci,"2,295,284"
+51,To non-U.S. addressees,,p9cinus,"25,984",,p9cinus,"22,181",,p9cinus,"29,010",,p9cinus,"70,422"
+52,Loans to individuals,,p9con,"15,178,725",,p9con,"14,563,073",,p9con,"14,703,959",,p9con,"16,739,130"
+53,Credit cards,,p9crcd,"9,834,624",,p9crcd,"9,659,897",,p9crcd,"9,992,595",,p9crcd,"11,680,726"
+54,Automobile loans,,p9auto,"262,626",,p9auto,"272,610",,p9auto,"273,585",,p9auto,"265,123"
+55,Other consumer loans,,p9conoth,"5,081,475",,p9conoth,"4,630,566",,p9conoth,"4,437,779",,p9conoth,"4,793,281"
+56,Loans to foreign governments and official institutions,,p9fg,0,,p9fg,0,,p9fg,0,,p9fg,0
+57,Other loans,,p9othln,"166,348",,p9othln,"217,273",,p9othln,"132,231",,p9othln,"443,564"
+58,Lease financing receivables,,p9ls,"47,179",,p9ls,"77,219",,p9ls,"69,746",,p9ls,"94,612"
+59,Debt securities and other assets,,p9scdebt,"739,374",,p9scdebt,"687,692",,p9scdebt,"733,081",,p9scdebt,"668,514"
+ ,Memoranda (included above): ,,,,,,,,,,,,
+60,Loans to finance agricultural prod and other loans to farmers (small),,p9agsm,"28,271",,p9agsm,"39,719",,p9agsm,"46,192",,p9agsm,"41,208"
+61,Loans held for sale,,p9lnsale,"3,551,490",,p9lnsale,"2,369,706",,p9lnsale,"1,434,451",,p9lnsale,"1,438,385"
+62,"Loans and leases, wholly or partially guaranteed by the U.S. Government",,p9gtypar,"71,540,698",,p9gtypar,"62,405,956",,p9gtypar,"55,174,582",,p9gtypar,"53,860,427"
+63,Loans and leases covered by FDIC loss-sharing agreements,,p9ltot,"10,222,886",,p9ltot,"10,557,769",,p9ltot,"10,515,134",,p9ltot,"10,418,416"
+64,Assets in nonaccrual status,,naasset,"181,596,409",,naasset,"189,020,470",,naasset,"200,887,392",,naasset,"217,533,072"
+65,"Loans secured by real estate, total",,nare,"157,103,604",,nare,"162,394,577",,nare,"172,540,070",,nare,"186,019,500"
+66,To non-U.S. addressees,,narenus,"1,220,668",,narenus,"1,310,591",,narenus,"1,535,609",,narenus,"1,622,119"
+67,Real estate loans in domestic offices,,idnaredm,"155,623,488",,idnaredm,"160,839,453",,idnaredm,"170,768,658",,idnaredm,"184,223,508"
+68,Construction and land development,,narecons,"27,011,466",,narecons,"31,076,541",,narecons,"35,518,425",,narecons,"40,768,859"
+69,"1-4 family residential construction	",,narecnfm,"4,867,276",,narecnfm,"5,867,506",,narecnfm,"6,997,414",,narecnfm,"8,190,985"
+70,"Other construction, all land development and other land",,narecnot,"20,789,990",,narecnot,"23,607,557",,narecnot,"26,758,614",,narecnot,"30,384,565"
+71,Secured by farmland,,nareag,"1,529,120",,nareag,"1,658,047",,nareag,"1,761,760",,nareag,"1,817,012"
+72,Secured by 1-4 family residential properties,,nareres,"87,488,076",,nareres,"86,471,205",,nareres,"88,704,693",,nareres,"93,396,239"
+73,Secured by multifamily residential properties,,naremult,"4,686,403",,naremult,"5,388,714",,naremult,"6,375,454",,naremult,"6,934,106"
+74,Secured by nonfarm nonresidential properties,,narenres,"34,908,423",,narenres,"36,244,946",,narenres,"38,408,326",,narenres,"41,307,292"
+75,Owner-occupied non-farm non-residential,,narenrow,"14,481,800",,narenrow,"15,306,718",,narenrow,"15,472,229",,narenrow,"16,012,504"
+76,Other  non-farm non-residential,,narenrot,"18,219,898",,narenrot,"18,590,607",,narenrot,"20,508,366",,narenrot,"22,761,733"
+77,Real estate loans in foreign offices,,narefor,"1,480,116",,narefor,"1,555,124",,narefor,"1,771,412",,narefor,"1,795,992"
+78,Loans to depository institutions,,nadep,"76,132",,nadep,"81,164",,nadep,"87,571",,nadep,"112,624"
+79,To foreign banks,,nadepnus,"63,075",,nadepnus,"65,075",,nadepnus,"67,075",,nadepnus,"91,075"
+80,Loans to finance agricultural production and other loans to farmers,,naag,"583,724",,naag,"605,194",,naag,"661,680",,naag,"799,734"
+81,Commercial and industrial loans,,naci,"15,443,361",,naci,"16,903,008",,naci,"18,201,246",,naci,"20,444,992"
+82,To non-U.S. addressees,,nacinus,"1,519,601",,nacinus,"1,449,900",,nacinus,"1,491,586",,nacinus,"2,251,622"
+83,Loans to individuals,,nacon,"3,473,209",,nacon,"3,420,813",,nacon,"3,649,934",,nacon,"3,956,107"
+84,Credit cards,,nacrcd,"1,721,079",,nacrcd,"1,704,726",,nacrcd,"1,755,575",,nacrcd,"1,889,692"
+85,Automobile loans,,naauto,"553,269",,naauto,"558,217",,naauto,"543,889",,naauto,"544,156"
+86,Other consumer loans,,naconoth,"1,198,861",,naconoth,"1,157,870",,naconoth,"1,350,470",,naconoth,"1,522,259"
+87,Loans to foreign governments and official institutions,,nafg,0,,nafg,"35,658",,nafg,"7,000",,nafg,"37,000"
+88,Other loans,,naothln,"3,042,559",,naothln,"3,522,601",,naothln,"3,620,114",,naothln,"3,995,354"
+89,Lease financing receivables,,nals,"365,167",,nals,"441,201",,nals,"508,266",,nals,"617,909"
+90,Debt securities and other assets,,nascdebt,"1,508,653",,nascdebt,"1,616,254",,nascdebt,"1,613,872",,nascdebt,"1,549,852"
+ ,Memoranda (included above): ,,,,,,,,,,,,
+91,Loans to finance agricultural prod and other loans (small),,naagsm,"194,571",,naagsm,"219,475",,naagsm,"230,791",,naagsm,"210,631"
+92,Loans held for sale,,nalnsale,"4,543,370",,nalnsale,"4,375,465",,nalnsale,"4,334,613",,nalnsale,"5,626,599"
+93,"Loans and leases, wholly or partially guaranteed by the U.S. Government",,nagtypar,"16,589,877",,nagtypar,"14,587,287",,nagtypar,"13,789,568",,nagtypar,"14,089,118"
+94,Loans and leases covered by FDIC loss-sharing agreements,,naltot,"6,023,522",,naltot,"6,337,324",,naltot,"7,124,208",,naltot,"7,794,547"
+"* Note: Prior to March 2001, information on Assets past due 30-89 days for individual institutions was confidential and therefore not available.",,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Key for Column Selections,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Column 1 Selections,,,,,,,,,,,,,
+Standard Peer Group: All Institutions - National,,,,,,,,,,,,,
+as of 12/31/2011,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Column 2 Selections,,,,,,,,,,,,,
+Standard Peer Group: All Institutions - National,,,,,,,,,,,,,
+as of 9/30/2011,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Column 3 Selections,,,,,,,,,,,,,
+Standard Peer Group: All Institutions - National,,,,,,,,,,,,,
+as of 6/30/2011,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Column 4 Selections,,,,,,,,,,,,,
+Standard Peer Group: All Institutions - National,,,,,,,,,,,,,
+as of 3/31/2011,,,,,,,,,,,,,
