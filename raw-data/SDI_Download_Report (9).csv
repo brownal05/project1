@@ -1,0 +1,124 @@
+"FDIC - Statistics on Depository Institutions Report"
+
+"","","","","All Institutions - National","","","All Institutions - National","","","All Institutions - National","","","All Institutions - National",
+"","","","","12/31/2007","","","9/30/2007","","","6/30/2007","","","3/31/2007",
+"","","","","$ in 000's","","","$ in 000's","","","$ in 000's","","","$ in 000's",
+"","","","","Total (Sum)","","","Total (Sum)","","","Total (Sum)","","","Total (Sum)",
+"1","Number of institutions reporting","","instcnt","8534","","instcnt","8559","","instcnt","8614","","instcnt","8649",
+"Past Due and Nonaccrual Assets","","",""," ","",""," ","",""," ","",""," ",
+"2","Assets past due 30 - 89 days *","","p3asset","108,043,536","","p3asset","92,594,864","","p3asset","74,072,620","","p3asset","70,551,505",
+"3","Loans secured by real estate, total","","p3re","72,780,873","","p3re","60,198,904","","p3re","47,058,923","","p3re","43,807,787",
+"4","To non-U.S. addressees","","p3renus","586,331","","p3renus","471,713","","p3renus","368,899","","p3renus","451,050",
+"5","Real estate loans in domestic offices","","idp3redm","72,017,533","","idp3redm","59,491,321","","idp3redm","46,447,690","","idp3redm","43,188,491",
+"6","Construction and land development","","p3recons","11,426,235","","p3recons","8,442,324","","p3recons","6,106,831","","p3recons","6,237,910",
+"7","1-4 family residential construction	","","p3recnfm","4,809,339","","p3recnfm","3,517,415","","p3recnfm","2,568,383","","p3recnfm","2,247,365",
+"8","Other construction, all land development and other land	","","p3recnot","5,110,448","","p3recnot","3,587,377","","p3recnot","2,779,872","","p3recnot","3,243,629",
+"9","Secured by farmland","","p3reag","430,235","","p3reag","350,996","","p3reag","426,128","","p3reag","513,115",
+"10","Secured by 1-4 family residential properties","","p3reres","51,504,975","","p3reres","44,020,924","","p3reres","34,239,454","","p3reres","30,105,769",
+"11","Secured by multifamily residential properties","","p3remult","1,146,713","","p3remult","821,223","","p3remult","828,320","","p3remult","935,483",
+"12","Secured by nonfarm nonresidential properties","","p3renres","7,509,375","","p3renres","5,855,854","","p3renres","4,846,957","","p3renres","5,396,214",
+"13","Owner-occupied non-farm non-residential","","p3renrow","2,673,773","","p3renrow","2,272,824","","p3renrow","2,028,618","","p3renrow","2,100,420",
+"14","Other non-farm non-residential","","p3renrot","4,091,736","","p3renrot","2,940,919","","p3renrot","2,254,066","","p3renrot","2,709,391",
+"15","Real estate loans in foreign offices","","p3refor","763,340","","p3refor","707,583","","p3refor","611,233","","p3refor","619,296",
+"16","Loans to depository institutions","","p3dep","70,740","","p3dep","7,433","","p3dep","21,210","","p3dep","10,580",
+"17","To foreign banks","","p3depnus","59,049","","p3depnus","2,533","","p3depnus","15,833","","p3depnus","9,627",
+"18","Loans to finance agricultural production and other loans to farmers","","p3ag","47,357","","p3ag","53,110","","p3ag","84,622","","p3ag","78,448",
+"19","Commercial and industrial loans","","p3ci","10,306,021","","p3ci","9,000,330","","p3ci","7,474,906","","p3ci","7,901,441",
+"20","To non-U.S. addressees","","p3cinus","428,875","","p3cinus","418,738","","p3cinus","288,951","","p3cinus","325,671",
+"21","Loans to individuals","","p3con","21,916,054","","p3con","20,164,160","","p3con","16,980,182","","p3con","15,298,515",
+"22","Credit cards","","p3crcd","9,800,060","","p3crcd","9,313,556","","p3crcd","7,555,053","","p3crcd","6,761,415",
+"23","Automobile loans","","p3auto","N/A","","p3auto","N/A","","p3auto","N/A","","p3auto","N/A",
+"24","Other consumer loans","","p3conoth","12,115,994","","p3conoth","10,850,604","","p3conoth","9,425,129","","p3conoth","8,537,100",
+"25","Loans to foreign governments and official institutions","","p3fg","6,002","","p3fg","1,000","","p3fg","2,169","","p3fg","0",
+"26","Other loans","","p3othln","1,515,810","","p3othln","2,206,098","","p3othln","1,586,390","","p3othln","2,074,440",
+"27","Lease financing receivables","","p3ls","1,355,343","","p3ls","927,197","","p3ls","831,156","","p3ls","1,349,085",
+"28","Debt securities and other assets","","p3scdebt","45,336","","p3scdebt","36,632","","p3scdebt","33,062","","p3scdebt","31,209",
+" ","Memoranda (included above): "
+"29","Loans to finance agricultural prod and other loans to farmers (small)","","p3agsm","245,010","","p3agsm","166,400","","p3agsm","245,383","","p3agsm","359,307",
+"30","Loans held for sale","","p3lnsale","2,372,046","","p3lnsale","2,978,987","","p3lnsale","2,349,547","","p3lnsale","2,288,527",
+"31","Loans and leases, wholly or partially guaranteed by the U.S. Government","","p3gtypar","4,917,072","","p3gtypar","4,627,591","","p3gtypar","3,996,641","","p3gtypar","3,985,307",
+"32","Loans and leases covered by FDIC loss-sharing agreements","","p3ltot","N/A","","p3ltot","N/A","","p3ltot","N/A","","p3ltot","N/A",
+"33","Assets past due 90 or more days","","p9asset","31,533,207","","p9asset","26,097,998","","p9asset","22,519,906","","p9asset","21,931,627",
+"34","Loans secured by real estate, total","","p9re","17,295,146","","p9re","14,197,942","","p9re","11,990,689","","p9re","11,260,539",
+"35","To non-U.S. addressees","","p9renus","11,124","","p9renus","8,741","","p9renus","15,116","","p9renus","6,455",
+"36","Real estate loans in domestic offices","","idp9redm","17,233,558","","idp9redm","14,154,518","","idp9redm","11,951,348","","idp9redm","11,235,711",
+"37","Construction and land development","","p9recons","1,851,813","","p9recons","1,255,715","","p9recons","817,615","","p9recons","705,826",
+"38","1-4 family residential construction	","","p9recnfm","960,195","","p9recnfm","530,681","","p9recnfm","382,618","","p9recnfm","324,930",
+"39","Other construction, all land development and other land	","","p9recnot","725,710","","p9recnot","617,318","","p9recnot","386,363","","p9recnot","344,511",
+"40","Secured by farmland","","p9reag","81,079","","p9reag","109,975","","p9reag","129,579","","p9reag","113,046",
+"41","Secured by 1-4 family residential properties","","p9reres","14,279,736","","p9reres","11,796,057","","p9reres","10,258,496","","p9reres","9,677,888",
+"42","Secured by multifamily residential properties","","p9remult","117,843","","p9remult","141,083","","p9remult","98,381","","p9remult","99,634",
+"43","Secured by nonfarm nonresidential properties","","p9renres","903,087","","p9renres","851,688","","p9renres","647,277","","p9renres","639,317",
+"44","Owner-occupied non-farm non-residential","","p9renrow","362,089","","p9renrow","361,900","","p9renrow","302,124","","p9renrow","277,219",
+"45","Other non-farm non-residential","","p9renrot","454,407","","p9renrot","394,703","","p9renrot","276,430","","p9renrot","292,021",
+"46","Real estate loans in foreign offices","","p9refor","61,588","","p9refor","43,424","","p9refor","39,341","","p9refor","24,828",
+"47","Loans to depository institutions","","p9dep","9,026","","p9dep","5,578","","p9dep","165","","p9dep","81",
+"48","To foreign banks","","p9depnus","8,093","","p9depnus","3,188","","p9depnus","0","","p9depnus","0",
+"49","Loans to finance agricultural production and other loans to farmers","","p9ag","5,986","","p9ag","6,894","","p9ag","16,462","","p9ag","26,006",
+"50","Commercial and industrial loans","","p9ci","2,311,923","","p9ci","2,167,104","","p9ci","1,535,143","","p9ci","1,458,242",
+"51","To non-U.S. addressees","","p9cinus","71,378","","p9cinus","63,662","","p9cinus","57,350","","p9cinus","55,967",
+"52","Loans to individuals","","p9con","11,188,986","","p9con","9,293,583","","p9con","8,630,877","","p9con","8,853,524",
+"53","Credit cards","","p9crcd","7,762,877","","p9crcd","6,429,986","","p9crcd","5,929,227","","p9crcd","6,019,878",
+"54","Automobile loans","","p9auto","N/A","","p9auto","N/A","","p9auto","N/A","","p9auto","N/A",
+"55","Other consumer loans","","p9conoth","3,426,109","","p9conoth","2,863,597","","p9conoth","2,701,650","","p9conoth","2,833,646",
+"56","Loans to foreign governments and official institutions","","p9fg","8","","p9fg","0","","p9fg","0","","p9fg","250",
+"57","Other loans","","p9othln","505,338","","p9othln","186,976","","p9othln","187,680","","p9othln","169,639",
+"58","Lease financing receivables","","p9ls","198,462","","p9ls","222,476","","p9ls","146,390","","p9ls","149,895",
+"59","Debt securities and other assets","","p9scdebt","18,332","","p9scdebt","17,445","","p9scdebt","12,500","","p9scdebt","13,451",
+" ","Memoranda (included above): "
+"60","Loans to finance agricultural prod and other loans to farmers (small)","","p9agsm","55,144","","p9agsm","64,569","","p9agsm","76,921","","p9agsm","79,886",
+"61","Loans held for sale","","p9lnsale","709,584","","p9lnsale","695,901","","p9lnsale","554,892","","p9lnsale","644,279",
+"62","Loans and leases, wholly or partially guaranteed by the U.S. Government","","p9gtypar","11,771,188","","p9gtypar","10,459,155","","p9gtypar","9,332,903","","p9gtypar","9,264,401",
+"63","Loans and leases covered by FDIC loss-sharing agreements","","p9ltot","N/A","","p9ltot","N/A","","p9ltot","N/A","","p9ltot","N/A",
+"64","Assets in nonaccrual status","","naasset","80,776,668","","naasset","57,347,751","","naasset","45,644,272","","naasset","39,635,970",
+"65","Loans secured by real estate, total","","nare","66,437,203","","nare","45,566,315","","nare","35,645,803","","nare","29,984,378",
+"66","To non-U.S. addressees","","narenus","720,356","","narenus","641,966","","narenus","725,821","","narenus","732,409",
+"67","Real estate loans in domestic offices","","idnaredm","65,680,637","","idnaredm","44,855,648","","idnaredm","34,845,308","","idnaredm","29,176,170",
+"68","Construction and land development","","narecons","18,940,599","","narecons","10,231,639","","narecons","7,205,160","","narecons","5,117,911",
+"69","1-4 family residential construction	","","narecnfm","8,240,964","","narecnfm","4,096,323","","narecnfm","2,799,339","","narecnfm","2,236,224",
+"70","Other construction, all land development and other land","","narecnot","8,188,612","","narecnot","4,693,576","","narecnot","3,463,670","","narecnot","2,230,053",
+"71","Secured by farmland","","nareag","320,761","","nareag","309,241","","nareag","317,428","","nareag","295,751",
+"72","Secured by 1-4 family residential properties","","nareres","37,503,327","","nareres","26,929,632","","nareres","20,313,322","","nareres","17,314,234",
+"73","Secured by multifamily residential properties","","naremult","1,426,694","","naremult","1,178,351","","naremult","1,249,313","","naremult","1,156,126",
+"74","Secured by nonfarm nonresidential properties","","narenres","7,489,256","","narenres","6,206,785","","narenres","5,760,085","","narenres","5,292,148",
+"75","Owner-occupied non-farm non-residential","","narenrow","3,457,106","","narenrow","2,797,442","","narenrow","2,573,307","","narenrow","2,326,094",
+"76","Other  non-farm non-residential","","narenrot","3,350,140","","narenrot","2,789,071","","narenrot","2,610,084","","narenrot","2,422,928",
+"77","Real estate loans in foreign offices","","narefor","756,566","","narefor","710,667","","narefor","800,495","","narefor","808,208",
+"78","Loans to depository institutions","","nadep","9,298","","nadep","9,297","","nadep","20,625","","nadep","22,808",
+"79","To foreign banks","","nadepnus","7,000","","nadepnus","8,393","","nadepnus","20,131","","nadepnus","22,393",
+"80","Loans to finance agricultural production and other loans to farmers","","naag","99,649","","naag","109,924","","naag","149,081","","naag","89,888",
+"81","Commercial and industrial loans","","naci","7,377,293","","naci","6,595,348","","naci","6,577,217","","naci","6,390,720",
+"82","To non-U.S. addressees","","nacinus","703,918","","nacinus","477,909","","nacinus","539,232","","nacinus","553,463",
+"83","Loans to individuals","","nacon","3,937,924","","nacon","2,701,776","","nacon","2,277,741","","nacon","2,197,234",
+"84","Credit cards","","nacrcd","1,598,148","","nacrcd","997,281","","nacrcd","835,237","","nacrcd","817,285",
+"85","Automobile loans","","naauto","N/A","","naauto","N/A","","naauto","N/A","","naauto","N/A",
+"86","Other consumer loans","","naconoth","2,339,776","","naconoth","1,704,495","","naconoth","1,442,504","","naconoth","1,379,949",
+"87","Loans to foreign governments and official institutions","","nafg","0","","nafg","0","","nafg","0","","nafg","0",
+"88","Other loans","","naothln","2,314,027","","naothln","1,895,810","","naothln","522,089","","naothln","394,038",
+"89","Lease financing receivables","","nals","382,096","","nals","336,854","","nals","314,896","","nals","412,256",
+"90","Debt securities and other assets","","nascdebt","219,178","","nascdebt","132,427","","nascdebt","136,820","","nascdebt","144,648",
+" ","Memoranda (included above): "
+"91","Loans to finance agricultural prod and other loans (small)","","naagsm","144,643","","naagsm","158,164","","naagsm","166,387","","naagsm","147,717",
+"92","Loans held for sale","","nalnsale","2,774,705","","nalnsale","2,955,788","","nalnsale","2,579,123","","nalnsale","1,814,924",
+"93","Loans and leases, wholly or partially guaranteed by the U.S. Government","","nagtypar","2,337,538","","nagtypar","2,046,441","","nagtypar","1,799,071","","nagtypar","1,836,494",
+"94","Loans and leases covered by FDIC loss-sharing agreements","","naltot","N/A","","naltot","N/A","","naltot","N/A","","naltot","N/A",
+"* Note: Prior to March 2001, information on Assets past due 30-89 days for individual institutions was confidential and therefore not available."
+
+"Key for Column Selections"
+
+"Column 1 Selections"
+"Standard Peer Group: All Institutions - National"
+"as of 12/31/2007"
+
+"Column 2 Selections"
+"Standard Peer Group: All Institutions - National"
+"as of 9/30/2007"
+
+"Column 3 Selections"
+"Standard Peer Group: All Institutions - National"
+"as of 6/30/2007"
+
+"Column 4 Selections"
+"Standard Peer Group: All Institutions - National"
+"as of 3/31/2007"
+
